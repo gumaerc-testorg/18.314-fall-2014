@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-314-combinatorial-analysis-fall-2014/be95e32dd696cf2953cb44b23dd1b5a1_pset11.jpg
+file: /media/courses/18-314-combinatorial-analysis-fall-2014/be95e32dd696cf2953cb44b23dd1b5a1_pset11.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: Finite Graphs. (Image by Richard Stanley.)
   image-alt: Three graphs, each made up of rectangles and triangles.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Problem Set 11
+parent_type: CourseSection
 resourcetype: Image
 title: pset11.jpg
 uid: be95e32d-d696-cf29-53cb-44b23dd1b5a1

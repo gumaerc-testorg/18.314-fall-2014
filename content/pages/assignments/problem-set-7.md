@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 88f36882-0870-1a5b-07ed-2e929d68ddce
 title: Problem Set 7
 uid: cff149ed-cd85-f47e-d1ab-bc1193f10c61
@@ -20,11 +24,11 @@ Problem Set 7
         *   Let _f_(_n_) denote the number of partitions of _n_ with an even number of 1's. Give a combinatorial proof and a generating function proof that _f_(_n_) + _f_(_n_\-1) = _p_(_n_), the total number of partitions of _n_.
     *   Session 18: Chapter 8: Exercises 20, 21
 *   Problems Assigned in the Textbook
-    *   Chapter 8: Exercises 27, 28, 32, 37\*. In exercise 28, you can ignore the last sentence (about comparing with Exercise 4). **Hint** for 37. Consider the product 1/(1-_qx_)(1-_qx_2)(1-_qx_3)...
+    *   Chapter 8: Exercises 27, 28, 32, 37\*. In exercise 28, you can ignore the last sentence (about comparing with Exercise 4). **Hint** for 37. Consider the product 1/(1-_qx_)(1-_qx_{{< sup "2" >}})(1-_qx_{{< sup "3" >}})...
 *   Additional Problems
     *   (A8\*) Show that the number of partitions of _n_ for which no part appears exactly once is equal to the number of partitions of _n_ for which every part is divisible by 2 or 3. For instance, when _n_\=6 there are four partitions of the first type (111111,2211,222,33) and four of the second type (222, 33, 42, 6). Use generating functions.
     *   (A9) Show that the number of partitions of _n_ for which no part appears more than twice is equal to the number of partitions of _n_ for which no part is divisible by 3. For instance, when _n_\=5 there are five partitions of the first type (5, 41, 32, 311, 221) and five of the second type (5, 41, 221, 2111, 11111). Use generating functions.
 *   Bonus Problems
-    *   (B2) Find the generating function _G_(_x_) = Σ_n_≥0 an_x__n_/_n_!,  
-        where _a__n_+1 = (_n_+1)_a__n_\-{_n_\\choose 2}_a__n_\-2 for _n_≥0, and _a_0\=1.  
-        Thus _a_1\=1, _a_2\=2, _a_3\=5. You don't need to find a formula for _a__n_.
+    *   (B2) Find the generating function _G_(_x_) = Σ{{< sub "_n_≥0" >}} an_x_{{< sub "_n_" >}}/_n_!,  
+        where _a_{{< sub "_n_+1" >}} = (_n_+1)_a_{{< sub "_n_" >}}\-{_n_\\choose 2}_a_{{< sub "_n_\\-2" >}} for _n_≥0, and _a_{{< sub "0" >}}\=1.  
+        Thus _a_{{< sub "1" >}}\=1, _a_{{< sub "2" >}}\=2, _a_{{< sub "3" >}}\=5. You don't need to find a formula for _a_{{< sub "_n_" >}}.

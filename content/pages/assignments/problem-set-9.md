@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 88f36882-0870-1a5b-07ed-2e929d68ddce
 title: Problem Set 9
 uid: 47ef9d22-fb24-23af-f12d-d1ca0790e514
@@ -21,6 +25,6 @@ Problem Set 9
 *   Problems Assigned in the Textbook
     *   Chapter 10: Exercises 22, 27, 36, 39, 43. In exercise 27, it is not clear what "cross each other" means. What you should prove is that all longest paths have a vertex in common. (This is rather tricky.) For this problem you may assume the result of 26. (As a bonus, you could include a solution to 26). For 43, give a simple combinatorial argument based on Theorem 10.7.
 *   Additional Problems
-    *   (A13\*) Give an example of a simple graph with exactly three automorphisms. Note that the graph _K_3 (a triangle) has _six_ automorphisms.
+    *   (A13\*) Give an example of a simple graph with exactly three automorphisms. Note that the graph _K_{{< sub "3" >}} (a triangle) has _six_ automorphisms.
 *   Bonus Problems
     *   None

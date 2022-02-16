@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 88f36882-0870-1a5b-07ed-2e929d68ddce
 title: Problem Set 11
 uid: e24e2ff9-fc53-2152-ee87-2bd9cadd814a

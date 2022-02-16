@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 35d3b2c8-bd32-f77a-8ee2-0eb1252d9d33
 ---
@@ -77,7 +80,7 @@ Chapter 4
 {{< tdopen >}}
 Compositions (concluded), Integer Partitions
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chapter 5  
    
  
@@ -109,7 +112,7 @@ Set Partitions
 {{< tdopen >}}
 Permutations, Cycle Type
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chapter 6  
    
  
@@ -141,7 +144,7 @@ Permutations (concluded)
 {{< tdopen >}}
 The Sieve
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Chapter 7  
  
 {{< tdclose >}}
@@ -163,7 +166,7 @@ The Sieve (cont.), Generating Functions
 {{< tdopen >}}
 Generating Functions (continued)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chapter 8  
    
  
@@ -204,7 +207,7 @@ Midterm One-Hour Exam 1 (Chapters 1–7, omitting pp. 123–24)
 {{< tdopen >}}
 Partitions
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chapter 8 (continued)  
    
  
@@ -236,7 +239,7 @@ Exponential Generating Functions (concluded)
 {{< tdopen >}}
 Vertex Degree, Eulerian Walks
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Chapter 9  
  
 {{< tdclose >}}
@@ -258,7 +261,7 @@ Isomorphism, Hamiltonian Cycles
 {{< tdopen >}}
 Tournaments, Trees
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Chapter 10  
  
 {{< tdclose >}}
@@ -359,7 +362,7 @@ Midterm One-Hour Exam 2 (Chapters 8–10.2)
 {{< tdopen >}}
 Latin Rectangles, Konig-Egervary Theorem
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chapter 11 (continued)  
    
  
@@ -391,7 +394,7 @@ Chromatic Polynomials
 {{< tdopen >}}
 Planar Graphs
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Chapter 12  
    
    
@@ -433,7 +436,7 @@ Coloring Maps
 {{< tdopen >}}
 Ramsey Theory
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Chapter 13  
  
 {{< tdclose >}}

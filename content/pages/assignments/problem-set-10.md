@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page provides a problem set on combinatorial analysis.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ Problem Set 10
     *   Session 27: Chapter 11: Exercise 3
     *   Session 28: Chapter 11: Exercises 4, 9, 12, 15, 16
 *   Problems Assigned in the Textbook
-    *   Do problems 1 and 2 from the [Matrix-Tree Theorem (PDF)]({{< baseurl >}}/resources/mit18_314f14_mt). Problem 2 deserves a star (\*). For this problem, you will need the concept of the _dual_ of a planar graph, defined in Definition 12.12, pp. 282, of the text. The first step is to prove that if _G_ is a planar graph, then κ(_G_) = κ(_G_\*). If you are unable to show that κ(_G_) = κ(_G_)\*, you should just assume it and continue with the problem.
+    *   Do problems 1 and 2 from the {{% resource_link 2724112e-a366-79f8-2dc0-4f0b2f4f355e "Matrix-Tree Theorem (PDF)" %}}. Problem 2 deserves a star (\*). For this problem, you will need the concept of the _dual_ of a planar graph, defined in Definition 12.12, pp. 282, of the text. The first step is to prove that if _G_ is a planar graph, then κ(_G_) = κ(_G_\*). If you are unable to show that κ(_G_) = κ(_G_)\*, you should just assume it and continue with the problem.
     *   Chapter 11: Exercise 26. 26(a) is pretty easy, but 26(b) is difficult.
 *   Additional Problems
     *   (A14\*) Let _G_{{< sub "n" >}} denote the complete graph _K_{{< sub "_2n_" >}} with _n_ vertex-disjoint edges (i.e., a complete matching) removed. Use the Matrix-Tree theorem to find κ(_G_{{< sub "n" >}}), the number of spanning trees of _G_{{< sub "_n_" >}}. (This is not so easy. Find the eigenvalues of the Laplacian matrix _L_ of _G_. Several tricks are needed.)

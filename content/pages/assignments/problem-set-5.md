@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page provides a problem set on combinatorial analysis.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -29,7 +30,7 @@ Problem Set 5
     *   None
 *   Bonus Problems
     *   (B1) Let _E_{{< sub "_n_" >}} denote the number of permutations _a_{{< sub "1" >}}_a_{{< sub "2" >}}…_a_{{< sub "n" >}} of 1,2,…,_n_ such that _a_{{< sub "1" >}}\>_a_{{< sub "2" >}}\<_a_{{< sub "3" >}}\> _a_{{< sub "4" >}}\<…. (The signs > and \< alternate.) For instance, _E_{{< sub "4" >}}\=5, corresponding to 2143, 3142, 3241, 4132, 4231. Show that for _n_\>0,  
-        _E_{{< sub "2" >}}_{{< sub "n" >}}_ = {2_n_\\choose 2}_E_{{< sub "2" >}}_{{< sub "n" >}}_{{< sub "\\-2" >}} - {2_n_\\choose 4}_E_2{{< sub "_n_\\-4" >}} + {2_n_\\choose 6}_E_{{< sub "2_n_\\-6" >}} - ….  
+        _E_{{< sub "2" >}}_{{< sub "n" >}}_ = {2_n_\\choose 2}_E_{{< sub "2" >}}_{{< sub "n" >}}_{{< sub "\-2" >}} - {2_n_\\choose 4}_E_2{{< sub "_n_\-4" >}} + {2_n_\\choose 6}_E_{{< sub "2_n_\-6" >}} - ….  
         Deduce from this recurrence a simple formula for the generating function Σ{{< sub "_n_≥0" >}} _E_{{< sub "2_n_" >}} _x_{{< sup "{{< sub \"2_n_\" >}}" >}}/(2_n_)!.
 
 Recall that bonus problems do not count toward your problem set grade. You can hand them in "for fun" to be graded. Perhaps they will come in handy if your grade at the end of the course is a close decision.

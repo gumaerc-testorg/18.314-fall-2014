@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-314-combinatorial-analysis-fall-2014/be95e32dd696cf2953cb44b23dd1b5a1_pset11.jpg
+file: /courses/18-314-combinatorial-analysis-fall-2014/be95e32dd696cf2953cb44b23dd1b5a1_pset11.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Problem Set 11
 parent_type: CourseSection
+parent_uid: e24e2ff9-fc53-2152-ee87-2bd9cadd814a
 resourcetype: Image
 title: pset11.jpg
 uid: be95e32d-d696-cf29-53cb-44b23dd1b5a1

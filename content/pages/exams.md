@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides practice exams with solutions and information on
+  the topics covered by each exam of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -33,9 +35,9 @@ Chapters 1 through 7, omitting pp. 123–24
 {{< tdopen >}}
 
 
-[Practice Midterm 1 (PDF)]({{< baseurl >}}/resources/mit18_314f14_pracq1)
+{{% resource_link 4fedee53-66e5-075d-4cd4-a4fb3b25d808 "Practice Midterm 1 (PDF)" %}}
 
-[Solutions to Practice Midterm 1 (PDF)]({{< baseurl >}}/resources/mit18_314f14_pracq1sol)
+{{% resource_link cb9c0779-3999-ec25-30d2-d5c5b6361784 "Solutions to Practice Midterm 1 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -51,9 +53,9 @@ Chapters 8 through 10.2
 {{< tdopen >}}
 
 
-[Practice Midterm 2 (PDF)]({{< baseurl >}}/resources/mit18_314f14_pracq2)
+{{% resource_link 21d3bbaf-c454-070e-911c-5bac96b12747 "Practice Midterm 2 (PDF)" %}}
 
-[Solutions to Practice Midterm 2 (PDF)]({{< baseurl >}}/resources/mit18_314f14_pracq2sol)
+{{% resource_link 0c8f1739-5057-2e78-20b5-d51c0bc0a6b5 "Solutions to Practice Midterm 2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -69,9 +71,9 @@ Chapters 1 through 12
 {{< tdopen >}}
 
 
-[Practice Final Exam (PDF)]({{< baseurl >}}/resources/mit18_314f14_pracexam)
+{{% resource_link 58d35ce4-3e70-2ce9-d871-0f7d33c5ff33 "Practice Final Exam (PDF)" %}}
 
-[Solutions to Practice Final Exam (PDF)]({{< baseurl >}}/resources/mit18_314f14_pracexamsol)
+{{% resource_link 818aac71-b9f4-cbf1-c534-9119fbae7dd5 "Solutions to Practice Final Exam (PDF)" %}}
 
 
 {{< tdclose >}}

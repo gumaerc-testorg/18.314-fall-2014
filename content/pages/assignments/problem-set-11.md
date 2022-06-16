@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page provides a problem set on combinatorial analysis.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -36,5 +37,5 @@ Problem Set 11
 *   Additional Problems
     *   (A17) Let _G_ be a bipartite graph for which a maximum matching has _n_ edges. What is the smallest possible size of a _maximal_ matching? (You need to give an example of this size and prove that no smaller size is possible in any bipartite graph for which a maximum matching has _n_ edges.)
     *   (A18)  Let _G_ and _H_ be finite graphs. Let _K_ consist of the union of _G_ and _H_, with an edge _e_ of _G_ identified with an edge _f_ of _H_. (Thus if _G_ has _q_ edges and _H_ has _r_ edges, then _K_ has _q+r-1_ edges.) Express the chromatic polynomial of _K_ in terms of those of _G_ and _H_. Example:
-![Three graphs, each made up of rectangles and triangles.]({{< resource_file be95e32d-d696-cf29-53cb-44b23dd1b5a1 >}})*   Bonus Problems
+{{< resource be95e32d-d696-cf29-53cb-44b23dd1b5a1 >}}*   Bonus Problems
     *   (B4) Let _M_ be an _n_×_n_ matrix of nonnegative integers. What is the least positive integer _f_(_n_) with the following property? If every row and column of _M_ sums to _f_(_n_), then there exists _n_ entries of _M_, no two in the same row and column, and all greater than one. For instance _f_(2)=3 and _f_(3)=5. The matrix with rows \[2,1,1\], \[2,1,1\], \[0,2,2\] shows that _f_(3)>4.

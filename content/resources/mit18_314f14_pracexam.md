@@ -5,6 +5,7 @@ file: /courses/18-314-combinatorial-analysis-fall-2014/58d35ce43e702ce9d8710f7d3
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Combinatorial Analysis, Practice Final Exam
 uid: 58d35ce4-3e70-2ce9-d871-0f7d33c5ff33
 ---
 This resource contains the information regarding Practice Final Exam.
-

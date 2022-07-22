@@ -8,6 +8,7 @@ image_metadata:
   credit: Finite Graphs. (Image by Richard Stanley.)
   image-alt: Three graphs, each made up of rectangles and triangles.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Problem Set 11
 parent_type: CourseSection

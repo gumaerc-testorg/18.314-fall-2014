@@ -6,6 +6,7 @@ file: /courses/18-314-combinatorial-analysis-fall-2014/0c8f173950572e7820b5d51c0
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Combinatorial Analysis, Solutions to Practice Midterm 2
 uid: 0c8f1739-5057-2e78-20b5-d51c0bc0a6b5
 ---
 This resource contains the information regarding Solutions to Practice Midterm 2.
-

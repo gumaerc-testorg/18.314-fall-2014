@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 88f36882-0870-1a5b-07ed-2e929d68ddce
 ---
@@ -29,7 +33,7 @@ DUE IN
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 1]({{< baseurl >}}/pages/assignments/problem-set-1)
+{{% resource_link 6ba0cf8b-6586-6d5a-eef4-89f2b68870a1 "Problem Set 1" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 3
@@ -38,7 +42,7 @@ Session 3
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 2]({{< baseurl >}}/pages/assignments/problem-set-2)
+{{% resource_link bed7a78a-959d-8750-bfb4-e612fe935cc3 "Problem Set 2" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 6
@@ -47,7 +51,7 @@ Session 6
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 3]({{< baseurl >}}/pages/assignments/problem-set-3)
+{{% resource_link a8d591d8-47e6-c6f6-4035-033ffc974248 "Problem Set 3" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 8
@@ -56,7 +60,7 @@ Session 8
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 4]({{< baseurl >}}/pages/assignments/problem-set-4)
+{{% resource_link d743ea48-ec60-6204-8250-ba8da4aedc3d "Problem Set 4" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 11
@@ -65,7 +69,7 @@ Session 11
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 5]({{< baseurl >}}/pages/assignments/problem-set-5)
+{{% resource_link 6459c98d-d328-f7b3-f8bb-0b1761de8e42 "Problem Set 5" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 14
@@ -74,7 +78,7 @@ Session 14
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 6]({{< baseurl >}}/pages/assignments/problem-set-6)
+{{% resource_link 8b6ade4c-4ff9-e21d-f8d8-b9edc0c51f51 "Problem Set 6" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 17
@@ -83,7 +87,7 @@ Session 17
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 7]({{< baseurl >}}/pages/assignments/problem-set-7)
+{{% resource_link cff149ed-cd85-f47e-d1ab-bc1193f10c61 "Problem Set 7" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 19
@@ -92,7 +96,7 @@ Session 19
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 8]({{< baseurl >}}/pages/assignments/problem-set-8)
+{{% resource_link d79065de-b3ec-e190-b0f6-ecff98e8ba65 "Problem Set 8" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 22
@@ -101,7 +105,7 @@ Session 22
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 9]({{< baseurl >}}/pages/assignments/problem-set-9)
+{{% resource_link 47ef9d22-fb24-23af-f12d-d1ca0790e514 "Problem Set 9" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 25
@@ -110,7 +114,7 @@ Session 25
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 10]({{< baseurl >}}/pages/assignments/problem-set-10)
+{{% resource_link c5c6dfc0-f2c1-bd15-8348-48d1e70bb5be "Problem Set 10" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 30
@@ -119,7 +123,7 @@ Session 30
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 11]({{< baseurl >}}/pages/assignments/problem-set-11)
+{{% resource_link e24e2ff9-fc53-2152-ee87-2bd9cadd814a "Problem Set 11" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 33
@@ -128,7 +132,7 @@ Session 33
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 12]({{< baseurl >}}/pages/assignments/problem-set-12)
+{{% resource_link 0819bd6c-381a-eaca-050c-e7889adfc1c5 "Problem Set 12" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 37

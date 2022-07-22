@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This page provides a problem set on combinatorial analysis.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 88f36882-0870-1a5b-07ed-2e929d68ddce
 title: Problem Set 3
 uid: a8d591d8-47e6-c6f6-4035-033ffc974248
@@ -23,7 +28,7 @@ Problem Set 3
 *   Additional Problems
     *   (A2) Let λ be a partition with conjugate λ'. Show that
     
-    Σ _i_ ⌊λ2_i-1_/2⌋ = Σ _i_ ⌈λ'_2i_/2⌉.  
+    Σ {{< sub "_i_" >}} ⌊λ2_{{< sub "i-1" >}}_/2⌋ = Σ {{< sub "_i_" >}} ⌈λ'_{{< sub "2i" >}}_/2⌉.  
     This can be seen almost by inspection from the Young diagram of λ after certain marks are made on it. _Note_. The notation ⌊_x_⌋ means the greatest integer ≤_x_. For instance, ⌊3⌋=3, ⌊3/2⌋=1. Similarly ⌈_x_⌉ means the least integer ≥_x_. For instance, ⌈3⌉=3, ⌈3/2⌉=2.
     
     *   (A3) Show by simple combinatorial reasoning and induction that the Bell number B(_n_) is even if and only if _n_\-2 is divisible by 3.

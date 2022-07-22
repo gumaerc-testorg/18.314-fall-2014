@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by lecture session and
+  topic, handouts, and information on the required textbook.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 35d3b2c8-bd32-f77a-8ee2-0eb1252d9d33
 ---
@@ -77,7 +82,7 @@ Chapter 4
 {{< tdopen >}}
 Compositions (concluded), Integer Partitions
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chapter 5  
    
  
@@ -109,7 +114,7 @@ Set Partitions
 {{< tdopen >}}
 Permutations, Cycle Type
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chapter 6  
    
  
@@ -141,7 +146,7 @@ Permutations (concluded)
 {{< tdopen >}}
 The Sieve
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Chapter 7  
  
 {{< tdclose >}}
@@ -163,7 +168,7 @@ The Sieve (cont.), Generating Functions
 {{< tdopen >}}
 Generating Functions (continued)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chapter 8  
    
  
@@ -204,7 +209,7 @@ Midterm One-Hour Exam 1 (Chapters 1–7, omitting pp. 123–24)
 {{< tdopen >}}
 Partitions
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chapter 8 (continued)  
    
  
@@ -236,7 +241,7 @@ Exponential Generating Functions (concluded)
 {{< tdopen >}}
 Vertex Degree, Eulerian Walks
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Chapter 9  
  
 {{< tdclose >}}
@@ -258,7 +263,7 @@ Isomorphism, Hamiltonian Cycles
 {{< tdopen >}}
 Tournaments, Trees
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Chapter 10  
  
 {{< tdclose >}}
@@ -283,11 +288,11 @@ Minimum Weight Spanning Trees
 {{< tdopen >}}
 
 
-[Matrix-Tree Theorem (PDF)]({{< baseurl >}}/resources/mit18_314f14_mt)  
+{{% resource_link 2724112e-a366-79f8-2dc0-4f0b2f4f355e "Matrix-Tree Theorem (PDF)" %}}  
 paralleling Section 10.4. There are  
 also two exercises.
 
-[More on Matrix-Tree Theorem (PDF)]({{< baseurl >}}/resources/mit18_314f14_mt2)  
+{{% resource_link 99d70739-3fab-ef4e-95c3-d2bd1690af91 "More on Matrix-Tree Theorem (PDF)" %}}  
 for information only to see some  
 more algebraic combinatorics.
 
@@ -359,7 +364,7 @@ Midterm One-Hour Exam 2 (Chapters 8–10.2)
 {{< tdopen >}}
 Latin Rectangles, Konig-Egervary Theorem
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chapter 11 (continued)  
    
  
@@ -391,7 +396,7 @@ Chromatic Polynomials
 {{< tdopen >}}
 Planar Graphs
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Chapter 12  
    
    
@@ -433,7 +438,7 @@ Coloring Maps
 {{< tdopen >}}
 Ramsey Theory
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Chapter 13  
  
 {{< tdclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Practice Final Exam.
-file: /ol-ocw-studio-app/courses/18-314-combinatorial-analysis-fall-2014/58d35ce43e702ce9d8710f7d33c5ff33_MIT18_314F14_pracexam.pdf
+file: /courses/18-314-combinatorial-analysis-fall-2014/58d35ce43e702ce9d8710f7d33c5ff33_MIT18_314F14_pracexam.pdf
 file_size: 102307
 file_type: application/pdf
 learning_resource_types:

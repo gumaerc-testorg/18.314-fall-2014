@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Practice Midterm 1.
-file: /ol-ocw-studio-app/courses/18-314-combinatorial-analysis-fall-2014/4fedee5366e5075d4cd4a4fb3b25d808_MIT18_314F14_pracq1.pdf
+file: /courses/18-314-combinatorial-analysis-fall-2014/4fedee5366e5075d4cd4a4fb3b25d808_MIT18_314F14_pracq1.pdf
 file_size: 91080
 file_type: application/pdf
 learning_resource_types:

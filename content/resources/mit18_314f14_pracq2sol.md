@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Solutions to Practice
   Midterm 2.
-file: /ol-ocw-studio-app/courses/18-314-combinatorial-analysis-fall-2014/0c8f173950572e7820b5d51c0bc0a6b5_MIT18_314F14_pracq2sol.pdf
+file: /courses/18-314-combinatorial-analysis-fall-2014/0c8f173950572e7820b5d51c0bc0a6b5_MIT18_314F14_pracq2sol.pdf
 file_size: 113977
 file_type: application/pdf
 learning_resource_types:

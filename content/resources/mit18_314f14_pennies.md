@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding.
-file: /courses/18-314-combinatorial-analysis-fall-2014/90d9aa1e1be1234683e37e4587a8c2c5_MIT18_314F14_pennies.pdf
+file: /ol-ocw-studio-app/courses/18-314-combinatorial-analysis-fall-2014/90d9aa1e1be1234683e37e4587a8c2c5_MIT18_314F14_pennies.pdf
 file_size: 63011
 file_type: application/pdf
 learning_resource_types: []

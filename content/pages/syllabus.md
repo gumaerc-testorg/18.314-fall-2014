@@ -34,7 +34,7 @@ This course analyzes combinatorial problems and methods for their solution. Prio
 Textbooks
 ---------
 
-Bona, Miklos. _A Walk Through Combinatorics: An Introduction to Enumeration and Graph Theory_. World Scientific Publishing Company, 2011. ISBN: 9789814335232. \[Preview with [Google Books](http://books.google.com/books?id=TzJ2L9ZmlQUC&pg=PAfrontcover)\]
+Bona, Miklos. _A Walk Through Combinatorics: An Introduction to Enumeration and Graph Theory_. World Scientific Publishing Company, 2011. ISBN: 9789814335232. \[Preview with {{% resource_link "55c2b96e-2f4f-4068-88f2-5ca608ee6652" "Google Books" %}}\]
 
 We will cover Chapters 1 through 13. Additional lecture notes to be provided on the Matrix-Tree Theorem and Eulerian cycles.
 

@@ -11,7 +11,8 @@ title: Problem Set 11
 uid: e24e2ff9-fc53-2152-ee87-2bd9cadd814a
 ---
 
-Most of the problems are assigned from the required textbook Bona, Miklos. _A Walk Through Combinatorics: An Introduction to Enumeration and Graph Theory_. World Scientific Publishing Company, 2011. ISBN: 9789814335232. \[Preview with {{% resource_link "2b567404-70bd-49a6-a033-6c1cb9c128c8" "Google Books" %}}\]
+Most of the problems are assigned from the required textbook Bona, Miklos. _A Walk Through Combinatorics: An Introduction to Enumeration and Graph Theory_. World Scientific Publishing Company, 2011. ISBN: 9789814335232. \[Preview with [Google Books](http://books.google.com/books?
+id=TzJ2L9ZmlQUC&pg=PAfrontcover)\]
 
 A problem marked by \* is difficult; it is not necessary to solve such a problem to do well in the course.
 

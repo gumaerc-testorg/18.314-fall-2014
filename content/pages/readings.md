@@ -9,7 +9,7 @@ title: Readings
 uid: 35d3b2c8-bd32-f77a-8ee2-0eb1252d9d33
 ---
 
-Most of the readings are assigned from the required textbook Bona, Miklos. _A Walk Through Combinatorics: An Introduction to Enumeration and Graph Theory_. World Scientific Publishing Company, 2011. ISBN: 9789814335232. \[Preview with {{% resource_link "55c2b96e-2f4f-4068-88f2-5ca608ee6652" "Google Books" %}}\]
+Most of the readings are assigned from the required textbook Bona, Miklos. _A Walk Through Combinatorics: An Introduction to Enumeration and Graph Theory_. World Scientific Publishing Company, 2011. ISBN: 9789814335232. \[Preview with [Google Books](http://books.google.com/books?id=TzJ2L9ZmlQUC&pg=PAfrontcover)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
